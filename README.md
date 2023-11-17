@@ -24,7 +24,7 @@ README
 - The project was developed using Jupyter in Python, for importing the database, looking at the relationship between the average/price per mile and other columns and building machine learning models for estimating prices.
 - Jupyter notebooks can ben found in this git repository.
 - Exploratory Data Analysis was complemented in a Tableau notebook ([Public Tableau Notebook](https://public.tableau.com/app/profile/antonio.montilla/viz/Ride_hiling_prices/Priceversuswind)).
-- A presentation with main insights of the project can be found here ([Google Drive Presentation](https://docs.google.com/presentation/d/1u1C7_vOOk7tbpBwQH5X7WAxDh-jykQPLTmvdeeO8s78/edit?usp=sharing)
+- A presentation with main insights of the project can be found here ([Google Drive Presentation](https://docs.google.com/presentation/d/1u1C7_vOOk7tbpBwQH5X7WAxDh-jykQPLTmvdeeO8s78/edit?usp=sharing))
 
 ### Main findings, caveats and further analysis.
 - The aim of this project was to analyse and identify the main factors behind the pricing strategy of ride-hailing companies, using a dataset for Uber and Lyft trips provided in a Kaggle challenge.
